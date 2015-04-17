@@ -88,10 +88,36 @@ footer{
 
 .who-div{
 	background-color:#f7e372;
+	margin:0em;
 }
 
-.events-div{
+.food-div{
+	background-color:#5393b8;
+	margin:0em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.events-div {
 	background-color: #c31f39;
+	margin:0em;
+	padding:0em;
+}
+
+.events-div h2{
+	margin: 0em;
+}
+
+.food-div h2{
+	margin:0em;
+}
+
+.who-p{
+	margin: 0em;
+}
+
+.who-div h2{
+	margin: 0em;
 }
 
 figcaption{
