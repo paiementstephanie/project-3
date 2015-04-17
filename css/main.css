@@ -99,6 +99,7 @@ footer{
 	padding-top: 1em;
 	padding-bottom: 1em;
 	color: white;
+	overflow: hidden;
 }
 
 .events-div {
@@ -127,18 +128,21 @@ footer{
 	padding-top: 0em;
 }
 
+
 figcaption{
 	text-align:center;
 }
 
 .right{
-	float:right;
+	float: left;
 	width:50%;
+	margin:0;
 }
 
 .left{
-	float:left;
+	float:right;
 	width:50%;
+	margin:0;
 }
 
 .event-p{
