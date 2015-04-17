@@ -93,3 +93,21 @@ footer{
 .events-div{
 	background-color: #c31f39;
 }
+
+figcaption{
+	text-align:center;
+}
+
+.right{
+	float:right;
+	width:50%;
+}
+
+.left{
+	float:left;
+	width:50%;
+}
+
+.event-p{
+	color: white;
+}
