@@ -89,6 +89,8 @@ footer{
 .who-div{
 	background-color:#f7e372;
 	margin:0em;
+	color: white;
+	padding: 2em;
 }
 
 .food-div{
@@ -96,12 +98,14 @@ footer{
 	margin:0em;
 	padding-top: 1em;
 	padding-bottom: 1em;
+	color: white;
 }
 
 .events-div {
 	background-color: #c31f39;
 	margin:0em;
 	padding:0em;
+	color: white;
 }
 
 .events-div h2{
@@ -110,6 +114,7 @@ footer{
 
 .food-div h2{
 	margin:0em;
+	padding-bottom: 1em;
 }
 
 .who-p{
@@ -118,6 +123,8 @@ footer{
 
 .who-div h2{
 	margin: 0em;
+	padding-bottom: 1em;
+	padding-top: 0em;
 }
 
 figcaption{
