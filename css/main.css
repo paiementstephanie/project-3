@@ -79,5 +79,17 @@ p{
 
 ol li:hover{
 	background-color: #7d7e81;
-	color: #77b0a2;
+	color: white;
+}
+
+footer{
+	background-color: white;
+}
+
+.who-div{
+	background-color:#f7e372;
+}
+
+.events-div{
+	background-color: #c31f39;
 }
