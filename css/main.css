@@ -180,4 +180,21 @@ figcaption{
 	margin:0em;
 }
 
+.twitter{
+	width: 40%;
+	float: right;
+	padding-left: 0.5em;
+	padding-right: 1em;
+}
 
+.facebook{
+	width: 40%;
+	float: right;
+	padding-right: 0.5em;
+}
+
+footer div{
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
