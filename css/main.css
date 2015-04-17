@@ -35,7 +35,7 @@ header h1 {
 nav{
 	margin: 0em;
 	padding: 0em;
-	background-color: white;
+	background-color: #7d7e81;
 }
 
 nav ol{
@@ -62,7 +62,7 @@ ol li{
 }
 
 ol a {
-	color: #5393b8;
+	color: white;
 	text-decoration: none;
 	text-align: center;
 	display: inline-block;
@@ -78,8 +78,8 @@ p{
 }
 
 ol li:hover{
-	background-color: #7d7e81;
-	color: white;
+	background-color: white;
+	color: #5393b8;
 }
 
 footer{
@@ -137,3 +137,16 @@ figcaption{
 .event-p{
 	color: white;
 }
+
+.billboard{
+	background-image: url("../img/raw-sugar-1.jpg");
+	background-size:100% auto;
+	padding-top: 10em;
+	padding-bottom: 10em;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: white;
+	margin:0em;
+}
+
+
