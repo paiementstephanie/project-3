@@ -24,7 +24,7 @@ header {
 
 header h1 {
 	color: white;
-	font-weight: 100;
+	font-weight: 400;
 	margin: 0em;
 	font-size: 2em;
 	text-shadow: #222 2px 2px 3px;
@@ -48,7 +48,7 @@ nav ol{
 nav a {
 	color: white;
 	text-decoration: none;
-	font-size: .9em;
+	font-size: 1em;
 }
 
 ol li{
@@ -64,5 +64,5 @@ ol a {
 	text-decoration: none;
 	text-align: center;
 	display: inline-block;
-	font-weight: 100;
+	font-weight: 400;
 }
