@@ -52,11 +52,9 @@ nav a {
 }
 
 ol li{
-	display: inline-block;
 	width:25%;
 	float:left;
 	margin:0;
-	padding: 1em;
 	border: 2px solid #5393b8;
 	text-align: center;
 }
@@ -65,8 +63,9 @@ ol a {
 	color: white;
 	text-decoration: none;
 	text-align: center;
-	display: inline-block;
+	display: block;
 	font-weight: 400;
+	padding: 1em;
 }
 
 h2{
@@ -78,8 +77,12 @@ p{
 }
 
 ol li:hover{
+}
+
+ol a:hover{
 	background-color: white;
 	color: #5393b8;
+
 }
 
 footer{
