@@ -31,3 +31,38 @@ header h1 {
 	text-shadow: #222 2px 2px 3px;
 	top:30px;
 }
+
+nav{
+	margin: 0em;
+	padding: 0em;
+	background-color: #7d7e81;
+}
+
+nav ol{
+	list-style-type: none;
+	margin: 0em;
+	padding: 0em;
+	overflow:hidden;
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+	font-size: .9em;
+}
+
+ol li{
+	display: inline-block;
+	width:25%;
+	float:left;
+	margin:0;
+	padding: 0.5em;
+}
+
+ol a {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	font-weight: 100;
+}
