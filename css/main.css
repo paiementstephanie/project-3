@@ -116,7 +116,8 @@ footer{
 .contact-div{
 	background-color: #77b0a2;
 	margin: 0em;
-	padding: 0em;
+	padding-bottom: 1em;
+	padding-top: 1em;
 	color: white;
 }
 
@@ -183,13 +184,14 @@ figcaption{
 .twitter{
 	width: 40%;
 	float: right;
-	padding-left: 0.5em;
-	padding-right: 1em;
 }
 
 .facebook{
 	width: 40%;
 	float: right;
+}
+
+.icons a{
 	padding-right: 0.5em;
 }
 
@@ -197,4 +199,5 @@ footer div{
 	width: 50%;
 	display: inline-block;
 	float: right;
+	padding-bottom: 1em;
 }
