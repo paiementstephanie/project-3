@@ -88,9 +88,10 @@ footer{
 	background-color: white;
 }
 
-footer p{
+footer a{
 	list-style-type: none;
 	text-decoration: none;
+	color: black;
 }
 
 .who-div{
