@@ -92,6 +92,7 @@ footer a{
 	list-style-type: none;
 	text-decoration: none;
 	color: black;
+	float:left;
 }
 
 .who-div{
