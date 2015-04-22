@@ -83,11 +83,15 @@ ol li:hover{
 ol a:hover{
 	background-color: white;
 	color: #5393b8;
-
 }
 
 footer{
 	background-color: white;
+}
+
+footer p{
+	list-style-type: none;
+	text-decoration: none;
 }
 
 .who-div{
