@@ -55,7 +55,7 @@ ol li{
 	width:25%;
 	float:left;
 	margin:0;
-	border: 2px solid #5393b8;
+	border: 2px solid #4f4f51;
 	text-align: center;
 }
 
@@ -70,6 +70,7 @@ ol a {
 
 h2{
 	text-align: center;
+	text-shadow: #222 2px 2px 3px;
 }
 
 p{
@@ -195,6 +196,11 @@ figcaption{
 
 .icons a{
 	padding-right: 0.5em;
+}
+
+.cozy-title{
+	font-size: 2em;
+	color: #4f4f51;
 }
 
 footer div{
