@@ -218,7 +218,7 @@ figcaption {
 
 .back-top{
 	font-weight: bold;
-	padding-top: 1em;
+	padding-top: 1.5em;
 	color: #77b0a2;
 	padding-left: .5em;
 	font-size: 20px;
@@ -226,13 +226,13 @@ figcaption {
 }
 
 .twitter {
-	width: 25%;
+	width: 35%;
 	float: right;
 	padding-top: 1em;
 }
 
 .facebook {
-	width: 25%;
+	width: 35%;
 	float: right;
 	padding-top: 1em;
 }
