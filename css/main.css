@@ -206,10 +206,10 @@ figcaption {
 }
 
 .billboard {
-	background-image: url("../img/raw-sugar-1.jpg");
+	background-image: url("../img/cafe.jpg");
 	background-size:100% auto;
-	padding-top: 7em;
-	padding-bottom: 7em;
+	padding-top: 5em;
+	padding-bottom: 5em;
 	background-repeat: no-repeat;
 	background-position: center;
 	color: white;
