@@ -146,6 +146,16 @@ padding-left: 1em;
 	padding-bottom: 1em;
 }
 
+.food-div p{
+	padding-left: .5em;
+	padding-right: .5em;
+}
+
+.who-div p{
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
 .who-div h2{
 	margin: 0em;
 	padding-bottom: 1em;
@@ -220,8 +230,8 @@ figcaption{
 .event-left{
 	float:left;
 	font-size: 30px;
-	padding-left: 1em;
-	padding-right:1em;
+	padding-left: .5em;
+	padding-right:.5em;
 }
 
 footer div{
@@ -229,4 +239,8 @@ footer div{
 	display: inline-block;
 	float: right;
 	padding-bottom: 1em;
+}
+
+footer p{
+	padding-left:0.5em;
 }
