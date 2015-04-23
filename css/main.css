@@ -218,16 +218,19 @@ figcaption {
 
 .back-top{
 	font-weight: bold;
+	padding-top: 2em;
 }
 
 .twitter {
 	width: 25%;
 	float: right;
+	padding-top: 1em;
 }
 
 .facebook {
 	width: 25%;
 	float: right;
+	padding-top: 1em;
 }
 
 .icons a {
