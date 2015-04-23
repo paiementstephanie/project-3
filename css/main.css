@@ -90,6 +90,7 @@ ol a:hover {
 
 footer {
 	background-color: white;
+	padding-top: 0;
 }
 
 footer a {
@@ -244,6 +245,8 @@ figcaption {
 
 .location {
 	width: 50%;
+	float:left;
+	position: relative;
 }
 
 .store {
@@ -258,10 +261,6 @@ figcaption {
 	width: 50%;
 }
 
-.contact-right {
-	float:right;
-}
-
 footer div {
 	width: 50%;
 	display: inline-block;
@@ -271,4 +270,5 @@ footer div {
 
 footer p {
 	padding-left:0.5em;
+	overflow: hidden;
 }
