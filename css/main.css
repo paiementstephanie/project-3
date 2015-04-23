@@ -95,6 +95,10 @@ footer a{
 	float:left;
 }
 
+ul li{
+	list-style: none;
+}
+
 .who-div{
 	background-color:#f7e372;
 	margin:0em;
@@ -210,7 +214,7 @@ figcaption{
 
 .event-left{
 	float:left;
-	font-size: 20px;
+	font-size: 30px;
 	padding-left: 1em;
 	padding-right:1em;
 }
