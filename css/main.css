@@ -242,6 +242,23 @@ figcaption {
 	padding-right:.5em;
 }
 
+.location{
+	width: 50%;
+}
+
+.store{
+	width: 50%;
+}
+
+.phone{
+	width: 50%;
+}
+
+.booking{
+	width: 50%;
+}
+
+
 footer div {
 	width: 50%;
 	display: inline-block;
