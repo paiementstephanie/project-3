@@ -216,6 +216,10 @@ figcaption {
 	margin:0em;
 }
 
+.back-top{
+	font-weight: bold;
+}
+
 .twitter {
 	width: 40%;
 	float: right;
