@@ -262,6 +262,10 @@ figcaption {
 	padding-right: 0.5em;
 }
 
+.contact-right{
+padding-left:0.7em;
+}
+
 ul li {
 	list-style: none;
 	float:left;
