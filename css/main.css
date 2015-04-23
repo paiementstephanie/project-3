@@ -208,6 +208,13 @@ figcaption{
 	color: #4f4f51;
 }
 
+.event-left{
+	float:left;
+	font-size: 20px;
+	padding-left: 1em;
+	padding-right:1em;
+}
+
 footer div{
 	width: 50%;
 	display: inline-block;
