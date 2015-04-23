@@ -202,6 +202,7 @@ figcaption {
 
 .event-p {
 	color: white;
+	padding-top: 1em;
 }
 
 .billboard {
@@ -246,6 +247,10 @@ figcaption {
 	text-align: left;
 }
 
+.event-right{
+	padding-right: 0.5em;
+}
+
 ul li {
 	list-style: none;
 	float:left;
@@ -263,18 +268,23 @@ ul{
 	width: 50%;
 	float:left;
 	position: relative;
+	text-align: left;
 }
 
 .store {
 	width: 50%;
+	text-align: left;
 }
 
 .phone {
 	width: 50%;
+	text-align: left;
 }
 
 .booking {
 	width: 50%;
+	text-align: left;
+	width: 60%;
 }
 
 footer div {
