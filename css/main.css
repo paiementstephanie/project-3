@@ -211,7 +211,7 @@ figcaption {
 	padding-top: 5em;
 	padding-bottom: 5em;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: fixed;
 	color: white;
 	margin:0em;
 }
@@ -245,6 +245,7 @@ figcaption {
 	font-size: 2em;
 	color: #77b0a2;
 	text-shadow: #222 2px 2px 3px;
+	margin: 0em;
 }
 
 .event-left {
