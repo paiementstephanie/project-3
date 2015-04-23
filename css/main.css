@@ -211,7 +211,7 @@ figcaption {
 	padding-top: 5em;
 	padding-bottom: 5em;
 	background-repeat: no-repeat;
-	background-position: fixed;
+	background-position: center;
 	color: white;
 	margin:0em;
 }
