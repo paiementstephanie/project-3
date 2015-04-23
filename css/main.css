@@ -67,39 +67,43 @@ ol a {
 	padding: 1em;
 }
 
-h2{
+h2 {
 	text-align: center;
 	text-shadow: #222 2px 2px 3px;
 }
 
-p{
+h3 {
+	text-shadow: #222 2px 2px 3px;
+}
+
+p {
 	text-align: center;
 }
 
-ol li:hover{
+ol li:hover {
 }
 
-ol a:hover{
+ol a:hover {
 	background-color: white;
 	color: #5393b8;
 }
 
-footer{
+footer {
 	background-color: white;
 }
 
-footer a{
+footer a {
 	list-style-type: none;
 	text-decoration: none;
 	color: black;
 	float:left;
 }
 
-ul li{
+ul li {
 	list-style: none;
 }
 
-.who-div{
+.who-div {
 	background-color:#f7e372;
 	margin:0em;
 	color: white;
@@ -107,7 +111,7 @@ ul li{
 	padding-bottom: 2em;
 }
 
-.food-div{
+.food-div {
 	background-color:#5393b8;
 	margin:0em;
 	padding-top: 1em;
@@ -124,11 +128,11 @@ ul li{
 	color: white;
 }
 
-.events-div h3{
+.events-div h3 {
 padding-left: 1em;
 }
 
-.contact-div{
+.contact-div {
 	background-color: #77b0a2;
 	margin: 0em;
 	padding-bottom: 1em;
@@ -136,67 +140,67 @@ padding-left: 1em;
 	color: white;
 }
 
-.events-div h2{
+.events-div h2 {
 	margin: 0em;
 	padding-bottom: 1em;
 }
 
-.food-div h2{
+.food-div h2 {
 	margin:0em;
 	padding-bottom: 1em;
 }
 
-.food-div p{
+.food-div p {
 	padding-left: .5em;
 	padding-right: .5em;
 }
 
-.who-div p{
+.who-div p {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 }
 
-.who-div h2{
+.who-div h2 {
 	margin: 0em;
 	padding-bottom: 1em;
 	padding-top: 0em;
 }
 
-.contact-div h2{
+.contact-div h2 {
 	margin: 0em;
 	padding-bottom: 1em;
 	padding-top: 0em;
 }
 
-.who-p{
+.who-p {
 	margin: 0em;
 }
 
-.event-p{
+.event-p {
 	margin: 0em;
 }
 
-figcaption{
+figcaption {
 	text-align:center;
 }
 
-.right{
+.right {
 	float: left;
 	width:50%;
 	margin:0;
 }
 
-.left{
+.left {
 	float:right;
 	width:50%;
 	margin:0;
 }
 
-.event-p{
+.event-p {
 	color: white;
 }
 
-.billboard{
+.billboard {
 	background-image: url("../img/raw-sugar-1.jpg");
 	background-size:100% auto;
 	padding-top: 7em;
@@ -207,40 +211,40 @@ figcaption{
 	margin:0em;
 }
 
-.twitter{
+.twitter {
 	width: 40%;
 	float: right;
 }
 
-.facebook{
+.facebook {
 	width: 40%;
 	float: right;
 }
 
-.icons a{
+.icons a {
 	padding-right: 0.5em;
 }
 
-.cozy-title{
+.cozy-title {
 	font-size: 2em;
 	color: #77b0a2;
 	text-shadow: #222 2px 2px 3px;
 }
 
-.event-left{
+.event-left {
 	float:left;
 	font-size: 30px;
 	padding-left: .5em;
 	padding-right:.5em;
 }
 
-footer div{
+footer div {
 	width: 50%;
 	display: inline-block;
 	float: right;
 	padding-bottom: 1em;
 }
 
-footer p{
+footer p {
 	padding-left:0.5em;
 }
