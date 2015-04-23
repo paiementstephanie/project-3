@@ -125,6 +125,7 @@ footer a {
 	padding-bottom: 1em;
 	color: white;
 	position: relative;
+	overflow: hidden;
 }
 
 .events-div h3 {
@@ -239,6 +240,10 @@ figcaption {
 	font-size: 30px;
 	padding-left: .5em;
 	padding-right:.5em;
+	width:30%;
+	float:left;
+	display:block;
+	text-align: left;
 }
 
 ul li {
@@ -247,6 +252,7 @@ ul li {
 	display: inline-block;
 	margin-top: 1em;
 	overflow: hidden;
+	width: 100%;
 }
 
 ul{
