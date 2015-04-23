@@ -218,10 +218,11 @@ figcaption {
 
 .back-top{
 	font-weight: bold;
-	padding-top: 2em;
+	padding-top: 1em;
 	color: #77b0a2;
 	padding-left: .5em;
 	font-size: 20px;
+	padding-bottom: 1em;
 }
 
 .twitter {
