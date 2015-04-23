@@ -140,6 +140,10 @@ padding-left: 1em;
 	color: white;
 }
 
+.contact-div h3{
+	padding-left: 0.5em;
+}
+
 .events-div h2 {
 	margin: 0em;
 	padding-bottom: 1em;
