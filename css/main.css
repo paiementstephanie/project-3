@@ -124,6 +124,10 @@ ul li{
 	color: white;
 }
 
+.events-div h3{
+padding-left: 1em;
+}
+
 .contact-div{
 	background-color: #77b0a2;
 	margin: 0em;
@@ -209,7 +213,8 @@ figcaption{
 
 .cozy-title{
 	font-size: 2em;
-	color: #4f4f51;
+	color: #77b0a2;
+	text-shadow: #222 2px 2px 3px;
 }
 
 .event-left{
