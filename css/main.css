@@ -6,11 +6,11 @@ html {
 	box-sizing: inherit;
 }
 
-img{
+img {
 	width: 100%;
 }
 
-body{
+body {
 	font-family: 'Roboto', sans-serif;
 	margin:0;
 }
@@ -51,7 +51,7 @@ nav a {
 	font-size: .9em;
 }
 
-ol li{
+ol li {
 	width:25%;
 	float:left;
 	margin:0;
