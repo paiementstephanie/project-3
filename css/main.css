@@ -80,8 +80,6 @@ p {
 	text-align: center;
 }
 
-ol li:hover {
-}
 
 ol a:hover {
 	background-color: white;
@@ -91,6 +89,8 @@ ol a:hover {
 footer {
 	background-color: white;
 	padding-top: 0;
+	position: relative;
+	overflow:hidden;
 }
 
 footer a {
@@ -100,17 +100,6 @@ footer a {
 	float:left;
 }
 
-ul li {
-	list-style: none;
-	float:left;
-	display: inline-block;
-	margin-top: 1em;
-	overflow: hidden;
-}
-
-ul{
-	background-color: #c31f39;
-}
 
 .who-div {
 	background-color:#f7e372;
@@ -135,6 +124,7 @@ ul{
 	padding-top:1em;
 	padding-bottom: 1em;
 	color: white;
+	position: relative;
 }
 
 .events-div h3 {
@@ -249,6 +239,18 @@ figcaption {
 	font-size: 30px;
 	padding-left: .5em;
 	padding-right:.5em;
+}
+
+ul li {
+	list-style: none;
+	float:left;
+	display: inline-block;
+	margin-top: 1em;
+	overflow: hidden;
+}
+
+ul{
+	background-color: #c31f39;
 }
 
 .location {
