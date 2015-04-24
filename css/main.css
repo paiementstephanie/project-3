@@ -119,7 +119,7 @@ footer a {
 }
 
 .events-div {
-	background-color: #c31f39;
+	background-color: #d73f4b;
 	margin:0em;
 	padding-top:1em;
 	padding-bottom: 1em;
@@ -258,6 +258,7 @@ figcaption {
 	float:left;
 	display:block;
 	text-align: left;
+	text-shadow: #222 2px 2px 3px;
 }
 
 .event-right{
@@ -268,9 +269,6 @@ figcaption {
 padding-left:0.7em;
 }
 
-.contact1{
-	padding-bottom:.5em;
-}
 
 ul li {
 	list-style: none;
